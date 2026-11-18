@@ -1,9 +1,0 @@
-{
-  "width":720,"height":1280,"fps":24,"type":"active-motion-demonstration","scenes":[
-    {"id":"01","start":0.0,"end":3.4,"visual":"well","title":"THE TRAP OPENS","eyebrow":"EVERY ACTION HAS A CONSEQUENCE","narration":"The farmer throws the pig into the well.","accent":"gold"},
-    {"id":"02","start":3.4,"end":7.0,"visual":"swarm","title":"THEY RUSH IN","eyebrow":"80 RATS THINK IT IS FOOD","narration":"Rats tumble down one by one, chasing easy food.","accent":"gold"},
-    {"id":"03","start":7.0,"end":10.4,"visual":"chase","title":"HUNTER AND HUNTED","eyebrow":"THE PREDATOR HAS CHANGED","narration":"The survivor begins hunting its own kind.","accent":"red"},
-    {"id":"04","start":10.4,"end":13.8,"visual":"diagram","title":"WHO BENEFITS?","eyebrow":"WATCH THE STRINGS","narration":"A trap makes the crowd fight itself.","accent":"red"},
-    {"id":"05","start":13.8,"end":17.2,"visual":"escape","title":"FIND THE EXIT","eyebrow":"BREAK THE CYCLE","narration":"Don't fight inside the trap. Find a way out.","accent":"gold"}
-  ]
-}

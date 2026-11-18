@@ -1,7 +1,0 @@
-Pillow>=10.0
-numpy>=1.24
-CairoSVG>=2.7
-opencv-python>=4.8
-soundfile>=0.12
-pytest>=7.0
-# Optional local narration: pip install kokoro-onnx soundfile
